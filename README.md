@@ -80,7 +80,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,c#,css,discord,docker,dynamodb,figma,firebase,github,html,java,js,linux,mysql,nodejs,py,vuejs,oracledb,informixdb,r,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,aws,azure,blender,bootstrap,cs,css,discord,docker,dynamodb,eclipse,figma,firebase,github,html,java,js,jquery,linux,mysql,nodejs,py,vue,r,vscode&perline=14" />
   </a>
 </p>
 
