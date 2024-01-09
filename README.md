@@ -26,9 +26,9 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **FireBase, OracleDB, Vue.js, Python, Java, C#**
+- 🔭 I’m currently working on **FireBase, MySQLDB, Vue.js, Python, Java, C#**
 
-- 🌱 I’m currently learning **to use Docker and acquiring new programming skills.**
+- 🌱 I’m currently learning **to use Django, React and acquiring new programming skills.**
 
 - ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
 
